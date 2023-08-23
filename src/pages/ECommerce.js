@@ -94,7 +94,7 @@ const ECommerce = () => {
           ))}
         </div>
       </div>
-      <div className="flex gap-10 flex-wrap
+      {/* <div className="flex gap-10 flex-wrap
       justify-center">
         <div className="bg-white
         dark:text-gray-200
@@ -118,7 +118,7 @@ const ECommerce = () => {
           </div>
 
         </div>
-      </div>
+      </div> */}
 
     </div>
   );
